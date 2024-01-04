@@ -4,7 +4,7 @@ int main ()
     int a;
     printf("Enter a number");
     scanf("%d",&a);
-   
+   if (2<0)
      
     {
         printf("the value is negative  number");
